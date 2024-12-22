@@ -1,1 +1,1 @@
-web: node start.js
+worker: npm i && npm start
